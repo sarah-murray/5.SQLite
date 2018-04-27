@@ -1,2 +1,2 @@
 # 5.SQLite
-Reading and writing SQLite database
+Reading and writing an SQLite database.
